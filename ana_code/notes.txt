@@ -1,0 +1,64 @@
+#below distinctions were hard coded
+###regions in hfi do not equal those in gtd - there were less in hfi, hence using the hfi notation
+hfi --> gtd
+South Asia --> South + Southeast Asia
+Oceania --> Australasi & Oceania
+Latin America & the Caribbean --> Central America & Carribean + South America
+Caucasus & Central Asia --> Central Asia
+
+
+###countries that differ - used GTD notation:
+Yemen, Rep. (HFI) -- Yemen (GTD)
+Slovak Rep. (HFI) -- Slovak Republic (GTD)
+Pap. New Guinea (HFI) -- Papua New Guinea (GTD)
+Kyrgyz Republic (HFI)-- Kyrgyzstan (GTD)
+Timor-Leste (HFI) -- East Timor (GTD)
+Korea, South (HFI) -- South Korea (GTD)
+Bosnia and Herzegovina (HFI)-- Bosnia-Herzegovina (GTD)
+Dominican Rep. (HFI) -- Dominican Republic (GTD)
+Central Afr. Rep.(HFI) -- Central African Republic (GTD)
+Czech Rep.(HFI) -- Czech Republic (GTD)
+Congo, Rep. Of (HFI) --- Republic of the Congo (GTD)
+Congo, Dem. R. (HFI)-- Democratic Republic of the Congo (GTD)
+
+
+#countries with mismatched regions
+Cyprus: Eastern Europe (HFI) -- Western Europe  --> Western Europe
+Greece: Eastern Europe (HFI) -- Western Europe  --> Western Europe
+Mexico: Latin America & the Caribbean (HFI) -- North America  --> Latin America & the Caribbean
+
+
+#attack types
+Unarmed Assault
+Hostage Taking (Barricade Incident)
+Unknown
+Assassination
+Hijacking
+Armed Assault
+Hostage Taking (Kidnapping)
+Bombing/Explosion
+Facility/Infrastructure Attack
+
+#target types
+Telecommunication
+Tourists
+Journalists & Media
+Police
+Unknown
+Military
+Business
+Government (General)
+Other
+Educational Institution
+Utilities
+Terrorists/Non-State Militia
+NGO
+Violent Political Party
+Private Citizens & Property
+Airports & Aircraft
+Transportation
+Religious Figures/Institutions
+Food or Water Supply
+Abortion Related
+Government (Diplomatic)
+Maritime
